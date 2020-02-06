@@ -1,0 +1,14 @@
+{
+	"core": {
+		"version": "0.0.1",
+		"url": "http:xxx.url",
+		"md5": "xxxxxxxxxxxx",
+	  	"comand":"xxxx"
+	},
+	"raspberry": {
+		"version": "0.0.1",
+		"url": "http:xxx.url",
+		"md5": "xxxxxxxxxxxx",
+	  	"comand":"xxxx"
+	}
+}
